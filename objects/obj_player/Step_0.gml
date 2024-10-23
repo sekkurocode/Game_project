@@ -1,0 +1,1 @@
+right_key = keyboard_check(vk_right);
